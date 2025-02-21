@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaalkin
+- 👋 Hi, I’m @akashbeingsky
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Java + DSA
 - 💞️ I’m looking to collaborate on ...
